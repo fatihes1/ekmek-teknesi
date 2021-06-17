@@ -1,6 +1,7 @@
 ﻿# EkmekTeknesi'ne Hoşgeldiniz!
 
-Ekmek**Teknesi** iş ilanı vermek isteyen şirketlerin ve iş arayan bireylerin buluşma noktası olarak hazırlanan bir platformdur. 
+Ekmek**Teknesi** iş ilanı vermek isteyen şirketlerin ve iş arayan bireylerin buluşma noktası olarak hazırlanan bir platformdur.
+- Canlı demo için [buraya](http://ekmekteknesi.ueuo.com//) tıklayınız
 
 
 ## Projeyi Çalıştırma
