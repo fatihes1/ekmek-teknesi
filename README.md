@@ -13,7 +13,7 @@ Proje ön kurulum gerektirmektedir. Proje dosyalarını yerel bilgisayarınızda
 - Adı **"job"** olan bir veritabanı oluşturun.
 - `job.sql` dosyasını içe aktarın. (**Databese File** klasörünün içerisinde verilmektedir.)
 - Tarayıcınızın arama bölümüne  `http://localhost/ekmek-teknesi-main/index.php`  yazın ve adrese gidin.
-- Örnek giriş yapıp sadece üyelere görüntülenen kısımları görmek için:
+- Örnek giriş yapıp sadece üyelere görüntülenen kısımları görmek için: <br>
 -- Kullanıcı Adı: `fatihes`
 -- Şifre: `fatihes123` üyeliğini kullanabilirsiniz.
 
